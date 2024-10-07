@@ -1,0 +1,12 @@
+name = "Mukong Theme"
+version = "0.1.1"
+display-name = "Mukong Theme"
+author = "amit Gosain"
+description = "Mukong theme for Lapce editor"
+icon = "logo.png"
+repository = "https://github.com/gosainamit/lapce-noctis-dark"
+color-themes = [
+    "Mukong-Dark.toml",
+    "Mukong-Light.toml",
+	"Mukong-Absurdo.toml",
+]
